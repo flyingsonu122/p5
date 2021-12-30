@@ -1,8 +1,3 @@
-<br><br><br>
-
-<p align="center">
-	<a href="https://www.youtube.com/watch?v=vUNAwi2HojI"><img src="https://i9.ytimg.com/vi_webp/vUNAwi2HojI/mqdefault.webp?sqp=CMCotY4G&rs=AOn4CLBr9sQfCR2YIrxsxqoSV3cJ_5m6qw" alt="https://www.youtube.com/watch?v=vUNAwi2HojI"></a>
-</p>
 
 
 <br><br><br>
